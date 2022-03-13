@@ -1,4 +1,4 @@
-# LicensePlateDetection
+# DEEP LEARNING-LicensePlateDetection
 
 # DEEP LEARNING - OBJECT DETECTION PROJECT
 
