@@ -1,4 +1,7 @@
 # LicensePlateDetection
+
+# DEEP LEARNING - OBJECT DETECTION PROJECT
+
 Derin Öğrenme-Görüntü İşleme-YOLOv4-Plaka Tespit
 
 ## Bitirme projesi.
